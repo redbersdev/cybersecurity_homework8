@@ -1,0 +1,48 @@
+
+{
+  allUsers{
+    edges {
+      node {
+        bugs {
+          pageInfo{
+            startCursor
+            hasNextPage
+            hasPreviousPage
+            endCursor
+          }
+        }
+        id
+        username
+      }
+    }
+  }
+  allBugs {
+    edges {
+      node {
+        private
+        reporter {
+          username
+          id
+        }
+        reporterId
+        id
+      }
+    }
+  }
+  findUser(username:"admin"){
+    username
+    bugs{
+      edges{
+        cursor
+        node {
+          text
+          private
+          reporter {
+            username
+          }
+          reporterId
+        }
+      }
+    }
+  }
+}
