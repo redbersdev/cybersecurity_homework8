@@ -10,8 +10,8 @@ XXE
 
 Directory traversal
 Виконати лабораторну №2, за допомогою вразливості directory traversal прочитати файлі на веб-сервері
-<a href="https://github.com/redbersdev/cybersecurity_homework8/blob/main/photo_2023-07-03_15-41-41.jpg">Результат1</a>
-<a href="https://github.com/redbersdev/cybersecurity_homework8/blob/main/photo_2023-07-03_15-41-29.jpg">Результат1</a> 
+<a href="https://github.com/redbersdev/cybersecurity_homework8/blob/main/photo_2023-07-03_15-41-41.jpg">Скрин1</a>
+<a href="https://github.com/redbersdev/cybersecurity_homework8/blob/main/photo_2023-07-03_15-41-29.jpg">Скрин2</a> 
 
 GraphQL
 Знайти "секрет" в лабораторній №3 користувача в GraphQL. Лаба з назвою BugDB v1
